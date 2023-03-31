@@ -715,6 +715,11 @@ Il serait donc illusoire de penser que face aux difficultés et à cette concurr
 
 Toutefois, quand on voit que la presse à gratifié un jeu comme Call of Duty: Modern Warfare 2 d'un 91/100, simple copier-coller de l'épisode précédent, et que le chef d’œuvre qu'est Call of Duty: Black Ops n'a récolté que d'un 61/100, on est en droit de se demander si finalement, les notes attribuées ne relève pas d'un lancé de dés.  
 
+# Références 
+
+Notre étude se base sur un dataset scrappé par Rush Kirubi : https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+Qui lui même a repris le dataset de Gregory Smith en le mettant à jour: https://www.kaggle.com/datasets/gregorut/videogamesales
+
 # Annexes
 
 Nous avons choisi de tout de même conserver certains éléments de recherche qui ne nous ont pas semblé être suffisamment pertinents au regard de l'étude que nous faisions.
