@@ -7,3 +7,11 @@ Auteurs de l'étude : RIADO Bastien, PATRAC Théo, TORNAMBÉ Damien, CORMIER Lev
 Problématique à laquelle nous avons tenté d'appporter une réponse : Y a-t-il eu réellement un changement des différences entre les notes de la presse et des utilisateurs
 au cours du temps, sur les gros éditeurs en particulier ?
  
+ 
+ projet_MSPL_RIADO_PATRAC_TORNAMBE_CORMIER.pdf constitue notre compte rendu de 5 pages 
+ projet_MSPL_RIADO_PATRAC_TORNAMBE_CORMIER.rmd constitue notre étude statistique 
+ projet_MSPL_RIADO_PATRAC_TORNAMBE_CORMIER.html constitue le résultat du knit de notre fichier .rmd 
+ diapo_RIADO_PATRAC_TORNAMBE_CORMIER.pdf constitue notre diaporama pour la présentation orale 
+ le dossier csv correspond aux données téléchargées via le lien https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+ le dossier images correspond aux images de l'introduction de notre fichier rmd 
+ 
